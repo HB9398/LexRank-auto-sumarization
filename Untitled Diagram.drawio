@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T02:02:16.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="aEXO9wC4iIKWVe9M0jT9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T02:34:54.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HjarATENzaIzx40GBHtK" version="24.2.5" type="github">
   <diagram name="Page-1" id="94NcwXvAnLRyzOczJ1pp">
-    <mxGraphModel>
+    <mxGraphModel dx="1468" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k_JY0cRslp9KHgwekv9g-1" value="Objective" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-2" value="Starting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-3" value="Key Result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-4" value="Key Result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-5" value="Key Result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-6" value="Key Result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_JY0cRslp9KHgwekv9g-2" target="k_JY0cRslp9KHgwekv9g-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="520" as="sourcePoint" />
+            <mxPoint x="480" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_JY0cRslp9KHgwekv9g-4" target="k_JY0cRslp9KHgwekv9g-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="803" as="sourcePoint" />
+            <mxPoint x="360" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_JY0cRslp9KHgwekv9g-4" target="k_JY0cRslp9KHgwekv9g-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="660" as="sourcePoint" />
+            <mxPoint x="360" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_JY0cRslp9KHgwekv9g-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="480" as="sourcePoint" />
+            <mxPoint x="330" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.017;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_JY0cRslp9KHgwekv9g-6" target="k_JY0cRslp9KHgwekv9g-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="280" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-14" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Visualize tables&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Based on KPIs create mind maps of dimension tables and there relationships. Not this down for future use as diagrams.&lt;br&gt;&lt;br&gt;By:&amp;nbsp;&lt;/span&gt;4/24/2021&lt;/h1&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="725" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-17" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Create a working Database &lt;span style=&quot;font-weight: normal;&quot;&gt;by creating staging tables, Load and Share Snowflake Database area. Review performance.&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;By:&amp;nbsp;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;5/17/2021&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="630" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-18" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Create Fact tables and Load Data using SQL&lt;br&gt;&lt;/span&gt;&lt;br&gt;By:&amp;nbsp;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;5/17/2021&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-19" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Create Visualization using Tableau to answer Questions&lt;br&gt;&lt;/span&gt;&lt;br&gt;By:&amp;nbsp;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;5/27/2021&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k_JY0cRslp9KHgwekv9g-21" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;Learn about Darta Warehousing, staging, SQL and data visualization.&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="190" width="150" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
